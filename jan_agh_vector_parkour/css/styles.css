@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(100, 3, 0);
+}
+
+img {
+  display: none;
+}
+
+canvas {
+  border: 10px solid gold;
+  display: none;
+  margin: 20px auto;
+  background-color: rgb(85, 3, 0);
+}
+
+#init {
+  background-color: rgb(122, 218, 192);
+  padding: 30px;
+  width: fit-content;
+  margin: 10vw auto;
+  border-radius: 10px;
+}
+
+#init p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: rgb(100, 3, 0);
+}
+
+#init:hover {
+  background-color: rgb(0, 218, 192);
+  cursor: pointer;
+}
