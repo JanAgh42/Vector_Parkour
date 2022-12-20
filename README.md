@@ -1,4 +1,4 @@
 
-This is a basic side-scrolling video game created in JS, HTML/CSS. 
+This is a basic side-scrolling video game created in JS, HTML/CSS.
 
-**ARCHIVED ON 19.2.2022**
+Basic information about the game's concept, goals and the entire creation process can be found in the attached pdf file.
